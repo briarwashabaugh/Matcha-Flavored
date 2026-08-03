@@ -2,9 +2,9 @@
   "type": "minecraft:blasting",
   "group": "stone",
   "category": "misc",
-  "ingredient": "minecraft:smooth_stone",
+  "ingredient": "minecraft:stone",
   "result": {
-    "id": "minecraft:stone"
+    "id": "minecraft:smooth_stone"
   },
   "experience": 0.1,
   "cookingtime": 100
