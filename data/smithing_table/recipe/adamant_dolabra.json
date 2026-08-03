@@ -24,7 +24,9 @@
 			},
 			"minecraft:enchantments": {
 				"main:divinity": 1,
-				"minecraft:unbreaking": 2
+				"minecraft:unbreaking": 2,
+				"minecraft:fire_aspect": 2,
+				"minecraft:efficiency": 3
 			},
 			"minecraft:lore": [
 				{
