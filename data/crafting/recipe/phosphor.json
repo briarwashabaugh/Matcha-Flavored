@@ -3,7 +3,7 @@
   "group": "glow_ink_sac",
   "category": "misc",
   "ingredients": [
-    "minecraft:potion",
+    "item.minecraft.potion.effect.water",
     "minecraft:gunpowder",
     "glow_lichen",
     "glow_lichen",

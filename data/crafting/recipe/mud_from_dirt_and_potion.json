@@ -3,7 +3,7 @@
   "group": "mud",
   "category": "building",
   "ingredients": [
-    "minecraft:potion",
+    "item.minecraft.potion.effect.water",
     "dirt",
     "dirt",
     "dirt",

@@ -3,7 +3,7 @@
   "category": "misc",
   "group": "green_dye",
   "ingredients": [
-    "minecraft:potion",
+    "item.minecraft.potion.effect.water",
     "minecraft:raw_copper",
     "minecraft:gunpowder"
   ],
